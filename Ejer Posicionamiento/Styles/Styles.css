@@ -1,0 +1,31 @@
+.d1 {
+}
+#d1 {
+
+left: 130px;
+}
+.d2{
+
+left: 250px;
+}
+#d2 {
+
+left: 370px;
+}
+.d3 {
+	left: 490px;
+}
+div {
+	background-color: #65FEFE;
+	border: solid #4D0084;
+	height: 100px;
+	width: 100px;
+	position: absolute;
+	top: ;
+}
+p {
+	position: relative;
+	top: 4px;
+	font-size: 20px;
+
+}
